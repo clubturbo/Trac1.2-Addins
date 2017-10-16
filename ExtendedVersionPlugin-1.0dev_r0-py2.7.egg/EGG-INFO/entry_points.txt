@@ -1,0 +1,7 @@
+
+      [trac.plugins]
+      extendedversion.db = extendedversion.db
+      extendedversion.milestone = extendedversion.milestone
+      extendedversion.roadmap = extendedversion.roadmap
+      extendedversion.version = extendedversion.version
+    

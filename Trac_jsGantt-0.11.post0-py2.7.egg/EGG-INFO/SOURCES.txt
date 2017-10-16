@@ -1,0 +1,17 @@
+setup.cfg
+setup.py
+Trac_jsGantt.egg-info/PKG-INFO
+Trac_jsGantt.egg-info/SOURCES.txt
+Trac_jsGantt.egg-info/dependency_links.txt
+Trac_jsGantt.egg-info/entry_points.txt
+Trac_jsGantt.egg-info/top_level.txt
+tracjsgantt/__init__.py
+tracjsgantt/db_default.py
+tracjsgantt/pmapi.py
+tracjsgantt/test.py
+tracjsgantt/tracjsgantt.py
+tracjsgantt/tracpm.py
+tracjsgantt/htdocs/jsgantt.compressed.js
+tracjsgantt/htdocs/jsgantt.css
+tracjsgantt/htdocs/jsgantt.js
+tracjsgantt/htdocs/tracjsgantt.css

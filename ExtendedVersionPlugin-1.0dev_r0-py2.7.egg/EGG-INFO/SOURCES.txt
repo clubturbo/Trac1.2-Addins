@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+ExtendedVersionPlugin.egg-info/PKG-INFO
+ExtendedVersionPlugin.egg-info/SOURCES.txt
+ExtendedVersionPlugin.egg-info/dependency_links.txt
+ExtendedVersionPlugin.egg-info/entry_points.txt
+ExtendedVersionPlugin.egg-info/not-zip-safe
+ExtendedVersionPlugin.egg-info/requires.txt
+ExtendedVersionPlugin.egg-info/top_level.txt
+extendedversion/__init__.py
+extendedversion/db.py
+extendedversion/milestone.py
+extendedversion/roadmap.py
+extendedversion/version.py

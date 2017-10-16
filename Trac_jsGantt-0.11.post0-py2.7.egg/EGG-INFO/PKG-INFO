@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Trac-jsGantt
+Version: 0.11.post0
+Summary: Trac plugin displaying jsGantt charts in Trac
+Home-page: http://trac-hacks.org/wiki/TracJsGanttPlugin
+Author: Chris Nelson
+Author-email: Chris.Nelson@SIXNET.com
+License: 3-Clause BSD
+Description: UNKNOWN
+Platform: UNKNOWN

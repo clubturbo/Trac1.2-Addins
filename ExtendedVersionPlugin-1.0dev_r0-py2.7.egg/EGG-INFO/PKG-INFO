@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ExtendedVersionPlugin
+Version: 1.0dev-r0
+Summary: Extend versions in trac
+Home-page: https://trac-hacks.org/wiki/ExtendedVersionPlugin
+Author: Ryan J Ollos
+Author-email: ryan.j.ollos@gmail.com
+License: 3-Clause BSD
+Description: UNKNOWN
+Keywords: trac plugin
+Platform: UNKNOWN

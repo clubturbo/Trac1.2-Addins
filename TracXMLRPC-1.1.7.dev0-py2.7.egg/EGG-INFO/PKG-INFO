@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: TracXMLRPC
+Version: 1.1.7.dev0
+Summary: RPC interface to Trac
+Home-page: https://trac-hacks.org/wiki/XmlRpcPlugin
+Author: Odd Simon Simonsen
+Author-email: simon-code@bvnetwork.no
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
